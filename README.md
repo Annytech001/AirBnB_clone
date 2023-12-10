@@ -1,0 +1,1 @@
+Creating an Airbnb clone in the console involves building a text-based interface that mimics the functionality of Airbnb. While a full-fledged Airbnb clone is a complex web application, a console version can focus on basic features like listing properties, searching for properties, and making reservations.
